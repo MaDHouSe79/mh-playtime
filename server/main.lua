@@ -1,3 +1,6 @@
+--[[ ===================================================== ]] --
+--[[             MH Playtime Script by MaDHouSe            ]] --
+--[[ ===================================================== ]] --
 local QBCore = exports['qb-core']:GetCoreObject()
 
 local function UpdateMetadata()
