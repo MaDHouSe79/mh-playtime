@@ -3,7 +3,7 @@ local Translations = {
         playtime = "Je hebt %{days} dagen, %{hours} uur, %{minutes} minuten gespeeld 👊😁👍",
     },
     command = {
-        info = 'Bekijk je playtim',
+        info = 'Bekijk je playtime',
     }
 }
 
