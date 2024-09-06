@@ -3,7 +3,7 @@ local Translations = {
         playtime = "You've played %{days} days, %{hours} hours, %{minutes} minutes 👊😁👍",
     },
     command = {
-        info = 'Check your playtim',
+        info = 'Check your playtime',
     }
 }
 
