@@ -6,7 +6,7 @@ game 'gta5'
 
 description 'mh - Play Time'
 author "MaDHouSe"
-version '1.0'
+version '1.0.0'
 
 server_only 'yes'
 
